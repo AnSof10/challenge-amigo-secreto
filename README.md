@@ -10,8 +10,11 @@ Solución al Challenge "AMIGO SECRETO", incluido en la formación de Principiant
 
  ## 📁 Acceso al Proyecto 📁
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+
 
 ## 🔨 Abre y ejecuta el proyecto 🔨
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+1. Para acceder al proyecto descargue la carpeta Zip.
+2. Después de doble click a la carpeta zip y use la opción "Extraer todo...".
+3. Abra la nueva carpeta si no se abrió automáticamente.
+4. De doble click al archivo index.
